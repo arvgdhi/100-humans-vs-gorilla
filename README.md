@@ -17,4 +17,4 @@ Interactive question-answer flow guides the simulation and determines results.
 - Basic probabilistic modeling
 
 ## Status
-Functional prototype. Inspired from the viral topic: who would win if a hundered humans battled one gorilla?
+Functional prototype.
